@@ -1,0 +1,102 @@
+
+* DONE [#A] RecordsSummary [100%] [5/5]
+- [X] Function page details fill-in.
+- [X] Scope.
+- [X] Unit tests.
+- [X] Applications.
+- [X] Neat examples.
+- [[https://resources.wolframcloud.com/FunctionRepository/resources/RecordsSummary][Published]].
+* DONE [#C] Soundex [100%] [6/6]
+- [X] Programming.
+- [X] Function page details fill-in.
+- [X] Scope.
+- [X] Unit tests.
+- [X] Applications.
+- [X] Neat examples.
+- [[https://resources.wolframcloud.com/FunctionRepository/resources/Soundex][Published]].
+* TODO [#A] CrossTabulate [60%] [3/5]
+- [X] Function page details fill-in.
+- [ ] Scope.
+- [X] Unit tests.
+- [X] Applications.
+- [ ] Neat examples.
+* TODO [#A] ToLongForm [%] [/]
+- [ ] Function page details fill-in.
+- [ ] Scope.
+- [ ] Unit tests.
+- [ ] Applications.
+- [ ] Neat examples.
+* TODO [#A] ToWideForm [%] [/]
+- [ ] Function page details fill-in.
+- [ ] Scope.
+- [ ] Unit tests.
+- [ ] Applications.
+- [ ] Neat examples.
+* TODO [#A] ChernoffFace [%] [/]
+- [ ] Function page details fill-in.
+- [ ] Scope.
+- [ ] Unit tests.
+- [ ] Applications.
+- [ ] Neat examples.
+* TODO [#A] GenerateMandala [%] [/]
+- [ ] Function page details fill-in.
+- [ ] Scope.
+- [ ] Unit tests.
+- [ ] Applications.
+- [ ] Neat examples.
+* TODO [#B] InterpretToNet [%] [/]
+- [ ] Feasibility investigation.
+- [ ] Function page details fill-in.
+- [ ] Scope.
+- [ ] Unit tests.
+- [ ] Applications.
+- [ ] Neat examples.
+* TODO [#A] QuantileRegression [%] [/]
+- [ ] Function page details fill-in.
+- [ ] Scope.
+- [ ] Unit tests.
+- [ ] Applications.
+- [ ] Neat examples.
+* TODO [#A] IndepedentComponentAnalysis [%] [/]
+- [ ] Function page details fill-in.
+- [ ] Scope.
+- [ ] Unit tests.
+- [ ] Applications.
+- [ ] Neat examples.
+* TODO [#A] Non-Negative Matrix Factorization [%] [/]
+- [ ] Function page details fill-in.
+- [ ] Scope.
+- [ ] Unit tests.
+- [ ] Applications.
+- [ ] Neat examples.
+* TODO [#C] HeatmapPlot [%] [/]
+- [ ] Function page details fill-in.
+- [ ] Scope.
+- [ ] Unit tests.
+- [ ] Applications.
+- [ ] Neat examples.
+* TODO [#C] CrossTensorate [%] [/]
+- [ ] Function page details fill-in.
+- [ ] Scope.
+- [ ] Unit tests.
+- [ ] Applications.
+- [ ] Neat examples.
+* TODO [#C] ParallelCoordinatesPlot [0%] [0/5]
+- [ ] Function page details fill-in.
+- [ ] Scope.
+- [ ] Unit tests.
+- [ ] Applications.
+- [ ] Neat examples.
+* TODO [#B] CallGraph [%] [/]
+- [ ] Function page details fill-in.
+- [ ] Scope.
+- [ ] Unit tests.
+- [ ] Applications.
+- [ ] Neat examples.
+* TODO [#B] FindAnomaliesByNearest [%] [/]
+- [ ] Programming.
+- [ ] Function page details fill-in.
+- [ ] Scope.
+- [ ] Unit tests.
+- [ ] Applications.
+- [ ] Neat examples.
