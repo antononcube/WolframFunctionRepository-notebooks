@@ -1,3 +1,5 @@
+#+TITLE: Wolfram Repository Functions notebooks status
+#+TODO: TODO ONGOING MAYBE | SUBMITTED DONE CANCELED 
 
 * DONE [#A] RecordsSummary [100%] [5/5]
 - [X] Function page details fill-in.
@@ -14,6 +16,14 @@
 - [X] Applications.
 - [X] Neat examples.
 - [[https://resources.wolframcloud.com/FunctionRepository/resources/Soundex][Published]].
+* SUBMITTED [#A] RandomMandala [100%] [6/6]
+- [X] Revamp implementation.
+- [X] Function page details fill-in.
+- [X] Scope.
+- [X] Unit tests.
+- [X] Applications.
+- [X] Neat examples.
+- Submitted.
 * TODO [#A] CrossTabulate [60%] [3/5]
 - [X] Function page details fill-in.
 - [ ] Scope.
@@ -33,12 +43,6 @@
 - [ ] Applications.
 - [ ] Neat examples.
 * TODO [#A] ChernoffFace [%] [/]
-- [ ] Function page details fill-in.
-- [ ] Scope.
-- [ ] Unit tests.
-- [ ] Applications.
-- [ ] Neat examples.
-* TODO [#A] GenerateMandala [%] [/]
 - [ ] Function page details fill-in.
 - [ ] Scope.
 - [ ] Unit tests.
