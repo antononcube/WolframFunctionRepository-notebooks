@@ -25,6 +25,10 @@ The corresponding licencing is the most permissive of BSD-3 or the one adopted b
 
   - Published.
 
+- `RandomMandala`
+
+  - Submitted.
+  
 - `CrossTabulate`
 
   - Work in progress.
