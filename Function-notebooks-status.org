@@ -16,20 +16,21 @@
 - [X] Applications.
 - [X] Neat examples.
 - [[https://resources.wolframcloud.com/FunctionRepository/resources/Soundex][Published]].
-* SUBMITTED [#A] RandomMandala [100%] [6/6]
+* DONE [#A] RandomMandala [100%] [6/6]
 - [X] Revamp implementation.
 - [X] Function page details fill-in.
 - [X] Scope.
 - [X] Unit tests.
 - [X] Applications.
 - [X] Neat examples.
-- Submitted.
-* TODO [#A] CrossTabulate [60%] [3/5]
+- [[https://resources.wolframcloud.com/FunctionRepository/resources/RandomMandala][Published]].
+* SUBMITTED [#A] CrossTabulate [100%] [5/5]
 - [X] Function page details fill-in.
-- [ ] Scope.
+- [X] Scope.
 - [X] Unit tests.
 - [X] Applications.
-- [ ] Neat examples.
+- [X] Neat examples.
+- Submitted.
 * TODO [#A] ToLongForm [%] [/]
 - [ ] Function page details fill-in.
 - [ ] Scope.
