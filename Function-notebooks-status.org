@@ -44,7 +44,7 @@
 - [X] Applications.
 - [X] Neat examples.
 - Submitted.
-* TODO [#A] IndepedentComponentAnalysis [20%] [1/5]
+* TODO [#A] IndependentComponentAnalysis [20%] [1/5]
 - [ ] Function page details fill-in.
 - [X] Scope.
 - [ ] Unit tests.
