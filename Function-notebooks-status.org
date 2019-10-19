@@ -16,7 +16,7 @@
 - [X] Applications.
 - [X] Neat examples.
 - [[https://resources.wolframcloud.com/FunctionRepository/resources/Soundex][Published]].
-* DONE [#A] RandomMandala [100%] [6/6]
+* DONE [#A] RandomMandala [100%] [1/1]
 - [X] Revamp implementation.
 - [X] Function page details fill-in.
 - [X] Scope.
@@ -24,13 +24,40 @@
 - [X] Applications.
 - [X] Neat examples.
 - [[https://resources.wolframcloud.com/FunctionRepository/resources/RandomMandala][Published]].
-* SUBMITTED [#A] CrossTabulate [100%] [5/5]
+** SUBMITTED Colorized multi-mandala mode [100%] [4/4]
+- [X] Implementation.
+- [X] Explanations.
+- [X] Tests.
+- [X] Neat examples.
+- Submitted.
+* DONE [#A] CrossTabulate [100%] [5/5]
+- [X] Function page details fill-in.
+- [X] Scope.
+- [X] Unit tests.
+- [X] Applications.
+- [X] Neat examples.
+- [[https://resources.wolframcloud.com/FunctionRepository/resources/CrossTabulate][Published]].
+* SUBMITTED [#A] QuantileRegression [100%] [5/5]
 - [X] Function page details fill-in.
 - [X] Scope.
 - [X] Unit tests.
 - [X] Applications.
 - [X] Neat examples.
 - Submitted.
+* TODO [#A] IndepedentComponentAnalysis [20%] [1/5]
+- [ ] Function page details fill-in.
+- [X] Scope.
+- [ ] Unit tests.
+- [ ] Applications.
+- [ ] Neat examples.
+* TODO [#A] ChowTestStatistic [16%] [1/6]
+- [X] Implementation.
+  - Previously done and published at GitHub.
+- [ ] Function page details fill-in.
+- [ ] Scope.
+- [ ] Unit tests.
+- [ ] Applications.
+- [ ] Neat examples.
 * TODO [#A] ToLongForm [%] [/]
 - [ ] Function page details fill-in.
 - [ ] Scope.
@@ -51,18 +78,6 @@
 - [ ] Neat examples.
 * TODO [#B] InterpretToNet [%] [/]
 - [ ] Feasibility investigation.
-- [ ] Function page details fill-in.
-- [ ] Scope.
-- [ ] Unit tests.
-- [ ] Applications.
-- [ ] Neat examples.
-* TODO [#A] QuantileRegression [%] [/]
-- [ ] Function page details fill-in.
-- [ ] Scope.
-- [ ] Unit tests.
-- [ ] Applications.
-- [ ] Neat examples.
-* TODO [#A] IndepedentComponentAnalysis [%] [/]
 - [ ] Function page details fill-in.
 - [ ] Scope.
 - [ ] Unit tests.
@@ -99,6 +114,13 @@
 - [ ] Applications.
 - [ ] Neat examples.
 * TODO [#B] FindAnomaliesByNearest [%] [/]
+- [ ] Programming.
+- [ ] Function page details fill-in.
+- [ ] Scope.
+- [ ] Unit tests.
+- [ ] Applications.
+- [ ] Neat examples.
+* TODO [#B] GitHubPlots [%] [/]
 - [ ] Programming.
 - [ ] Function page details fill-in.
 - [ ] Scope.
