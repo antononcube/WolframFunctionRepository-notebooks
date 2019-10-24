@@ -24,12 +24,12 @@
 - [X] Applications.
 - [X] Neat examples.
 - [[https://resources.wolframcloud.com/FunctionRepository/resources/RandomMandala][Published]].
-** SUBMITTED Colorized multi-mandala mode [100%] [4/4]
+** DONE Colorized multi-mandala mode [100%] [4/4]
 - [X] Implementation.
 - [X] Explanations.
 - [X] Tests.
 - [X] Neat examples.
-- Submitted.
+- [[https://resources.wolframcloud.com/FunctionRepository/resources/RandomMandala][Published]].
 * DONE [#A] CrossTabulate [100%] [5/5]
 - [X] Function page details fill-in.
 - [X] Scope.
