@@ -37,93 +37,123 @@
 - [X] Applications.
 - [X] Neat examples.
 - [[https://resources.wolframcloud.com/FunctionRepository/resources/CrossTabulate][Published]].
-* SUBMITTED [#A] QuantileRegression [100%] [5/5]
+* DONE [#A] QuantileRegression [100%] [7/7]
 - [X] Function page details fill-in.
 - [X] Scope.
 - [X] Unit tests.
 - [X] Applications.
+- [X] Properties and Relations.
+- [X] Possible issues.
 - [X] Neat examples.
-- Submitted.
-* TODO [#A] IndependentComponentAnalysis [20%] [1/5]
-- [ ] Function page details fill-in.
+- [[https://resources.wolframcloud.com/FunctionRepository/resources/QuantileRegression][Published]].
+* SUBMITTED [#A] ChernoffFace [100%] [7/7]
+- [X] Function page details fill-in.
 - [X] Scope.
-- [ ] Unit tests.
+- [X] Unit tests.
+- [X] Applications.
+- [X] Properties and Relations.
+- [X] Possible issues.
+- [X] Neat examples.
+- [[https://www.wolframcloud.com/obj/user-01322cd4-0fb2-4de3-bb60-43a779233e87/DeployedResources/Function/ChernoffFace][Submitted]]
+* SUBMITTED [#A] IndependentComponentAnalysis [100%] [6/6]
+- [X] Function page details fill-in.
+- [X] Scope.
+- [X] Unit tests.
+- [X] Applications.
+- [X] Properties and Relations
+- [X] Possible issues.
+- [C] Neat examples.
+- [[https://www.wolframcloud.com/obj/user-01322cd4-0fb2-4de3-bb60-43a779233e87/DeployedResources/Function/IndependentComponentAnalysis][Submitted]]
+* TODO [#A] Non-Negative Matrix Factorization [%] [/]
+- [ ] Function page details fill-in.
+- [ ] Scope.
 - [ ] Applications.
+- [ ] Properties and Relations
+- [ ] Possible issues.
 - [ ] Neat examples.
+- [ ] Unit tests.
 * TODO [#A] ChowTestStatistic [16%] [1/6]
 - [X] Implementation.
   - Previously done and published at GitHub.
 - [ ] Function page details fill-in.
 - [ ] Scope.
-- [ ] Unit tests.
 - [ ] Applications.
+- [ ] Properties and Relations
+- [ ] Possible issues.
 - [ ] Neat examples.
-* TODO [#A] ToLongForm [%] [/]
+- [ ] Unit tests.
+* TODO [#A] ToLongForm [0%] [0/6]
 - [ ] Function page details fill-in.
 - [ ] Scope.
-- [ ] Unit tests.
 - [ ] Applications.
+- [ ] Properties and Relations
+- [ ] Possible issues.
 - [ ] Neat examples.
+- [ ] Unit tests.
 * TODO [#A] ToWideForm [%] [/]
 - [ ] Function page details fill-in.
 - [ ] Scope.
-- [ ] Unit tests.
 - [ ] Applications.
+- [ ] Properties and Relations
+- [ ] Possible issues.
 - [ ] Neat examples.
-* TODO [#A] ChernoffFace [%] [/]
-- [ ] Function page details fill-in.
-- [ ] Scope.
 - [ ] Unit tests.
-- [ ] Applications.
-- [ ] Neat examples.
 * TODO [#B] InterpretToNet [%] [/]
 - [ ] Feasibility investigation.
 - [ ] Function page details fill-in.
 - [ ] Scope.
-- [ ] Unit tests.
 - [ ] Applications.
+- [ ] Properties and Relations
+- [ ] Possible issues.
 - [ ] Neat examples.
-* TODO [#A] Non-Negative Matrix Factorization [%] [/]
-- [ ] Function page details fill-in.
-- [ ] Scope.
 - [ ] Unit tests.
-- [ ] Applications.
-- [ ] Neat examples.
 * TODO [#C] HeatmapPlot [%] [/]
 - [ ] Function page details fill-in.
 - [ ] Scope.
-- [ ] Unit tests.
 - [ ] Applications.
+- [ ] Properties and Relations
+- [ ] Possible issues.
 - [ ] Neat examples.
+- [ ] Unit tests.
 * TODO [#C] CrossTensorate [%] [/]
 - [ ] Function page details fill-in.
 - [ ] Scope.
-- [ ] Unit tests.
 - [ ] Applications.
+- [ ] Properties and Relations
+- [ ] Possible issues.
 - [ ] Neat examples.
+- [ ] Unit tests.
 * TODO [#C] ParallelCoordinatesPlot [0%] [0/5]
 - [ ] Function page details fill-in.
 - [ ] Scope.
-- [ ] Unit tests.
 - [ ] Applications.
+- [ ] Properties and Relations
+- [ ] Possible issues.
 - [ ] Neat examples.
+- [ ] Unit tests.
 * TODO [#B] CallGraph [%] [/]
 - [ ] Function page details fill-in.
 - [ ] Scope.
-- [ ] Unit tests.
 - [ ] Applications.
+- [ ] Properties and Relations
+- [ ] Possible issues.
 - [ ] Neat examples.
+- [ ] Unit tests.
 * TODO [#B] FindAnomaliesByNearest [%] [/]
 - [ ] Programming.
 - [ ] Function page details fill-in.
 - [ ] Scope.
-- [ ] Unit tests.
 - [ ] Applications.
+- [ ] Properties and Relations
+- [ ] Possible issues.
 - [ ] Neat examples.
+- [ ] Unit tests.
 * TODO [#B] GitHubPlots [%] [/]
 - [ ] Programming.
 - [ ] Function page details fill-in.
 - [ ] Scope.
-- [ ] Unit tests.
 - [ ] Applications.
+- [ ] Properties and Relations
+- [ ] Possible issues.
 - [ ] Neat examples.
+- [ ] Unit tests.
