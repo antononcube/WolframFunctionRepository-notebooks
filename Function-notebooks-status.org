@@ -46,7 +46,7 @@
 - [X] Possible issues.
 - [X] Neat examples.
 - [[https://resources.wolframcloud.com/FunctionRepository/resources/QuantileRegression][Published]].
-* SUBMITTED [#A] ChernoffFace [100%] [7/7]
+* DONE [#A] ChernoffFace [100%] [7/7]
 - [X] Function page details fill-in.
 - [X] Scope.
 - [X] Unit tests.
@@ -54,8 +54,8 @@
 - [X] Properties and Relations.
 - [X] Possible issues.
 - [X] Neat examples.
-- [[https://www.wolframcloud.com/obj/user-01322cd4-0fb2-4de3-bb60-43a779233e87/DeployedResources/Function/ChernoffFace][Submitted]]
-* SUBMITTED [#A] IndependentComponentAnalysis [100%] [6/6]
+- [[https://resources.wolframcloud.com/FunctionRepository/resources/ChernoffFace][Published]]
+* DONE [#A] IndependentComponentAnalysis [100%] [6/6]
 - [X] Function page details fill-in.
 - [X] Scope.
 - [X] Unit tests.
@@ -63,7 +63,16 @@
 - [X] Properties and Relations
 - [X] Possible issues.
 - [C] Neat examples.
-- [[https://www.wolframcloud.com/obj/user-01322cd4-0fb2-4de3-bb60-43a779233e87/DeployedResources/Function/IndependentComponentAnalysis][Submitted]]
+- [[https://resources.wolframcloud.com/FunctionRepository/resources/ParetoPrinciplePlot][Published]]
+* DONE [#A] ParetoPrinciplePlot [100%] [7/7]
+- [X] Function page details fill-in.
+- [X] Scope.
+- [X] Applications.
+- [X] Properties and Relations
+- [X] Possible issues.
+- [X] Neat examples.
+- [X] Unit tests.
+- [[https://resources.wolframcloud.com/FunctionRepository/resources/ParetoPrinciplePlot][Published]]
 * TODO [#A] Non-Negative Matrix Factorization [%] [/]
 - [ ] Function page details fill-in.
 - [ ] Scope.

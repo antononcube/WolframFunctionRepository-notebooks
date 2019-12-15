@@ -33,20 +33,25 @@ The corresponding licencing is the most permissive of (1) BSD-3 or (2) the one a
 
   - Published
   
-- `IndependentComponentAnalysis`
+- [`IndependentComponentAnalysis`](https://resources.wolframcloud.com/FunctionRepository/resources/IndependentComponentAnalysis)
 
-  - [Submitted](https://www.wolframcloud.com/obj/user-01322cd4-0fb2-4de3-bb60-43a779233e87/DeployedResources/Function/IndependentComponentAnalysis)
+  - Published
 
 ### Graphics
 
 - [`RandomMandala`](https://resources.wolframcloud.com/FunctionRepository/resources/RandomMandala)
 
-  - Published.
+  - Published
     
-- `ChernoffFace`
+- [`ChernoffFace`](https://resources.wolframcloud.com/FunctionRepository/resources/ChernoffFace)
 
-  - [Submitted](https://www.wolframcloud.com/obj/user-01322cd4-0fb2-4de3-bb60-43a779233e87/DeployedResources/Function/ChernoffFace)
+  - Published
+
+- [`ParetoPrinciplePlot`](https://resources.wolframcloud.com/FunctionRepository/resources/ParetoPrinciplePlot)
+
+  - Published
   
+    
 ### Miscellaneous
 
 - [`Soundex`](https://resources.wolframcloud.com/FunctionRepository/resources/Soundex)
