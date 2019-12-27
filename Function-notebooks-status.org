@@ -73,14 +73,33 @@
 - [X] Neat examples.
 - [X] Unit tests.
 - [[https://resources.wolframcloud.com/FunctionRepository/resources/ParetoPrinciplePlot][Published]]
-* TODO [#A] Non-Negative Matrix Factorization [%] [/]
-- [ ] Function page details fill-in.
-- [ ] Scope.
-- [ ] Applications.
-- [ ] Properties and Relations
-- [ ] Possible issues.
-- [ ] Neat examples.
-- [ ] Unit tests.
+* DONE [#A] NonNegativeMatrixFactorization [85%] [6/7]
+- [X] Function page details fill-in.
+- [X] Scope.
+- [X] Applications.
+- [X] Properties and Relations
+- [X] Possible issues.
+- [C] Neat examples.
+- [X] Unit tests.
+- [[https://resources.wolframcloud.com/FunctionRepository/resources/NonNegativeMatrixFactorization][Published]]
+* DONE [#A] ImportCSVToDataset [100%] [6/6]
+- [X] Function page details fill-in.
+- [X] Scope.
+- [X] Applications.
+- [X] Properties and Relations
+- [X] Possible issues.
+- [C] Neat examples.
+- [X] Unit tests.
+- [[https://resources.wolframcloud.com/FunctionRepository/resources/ImportCSVToDataset][Published]]
+* SUBMITTED [#C] TexturizePolygons [100%] [7/7]
+- [X] Function page details fill-in.
+- [X] Scope.
+- [C] Applications.
+- [X] Properties and Relations.
+- [C] Possible issues.
+- [X] Neat examples.
+- [X] Unit tests.
+- [[https://www.wolframcloud.com/obj/user-01322cd4-0fb2-4de3-bb60-43a779233e87/DeployedResources/Function/TexturizePolygons][Submitted]]
 * TODO [#A] ChowTestStatistic [16%] [1/6]
 - [X] Implementation.
   - Previously done and published at GitHub.

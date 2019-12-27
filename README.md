@@ -27,6 +27,10 @@ The corresponding licencing is the most permissive of (1) BSD-3 or (2) the one a
 
   - Published
 
+- [`ImportCSVToDataset`](https://resources.wolframcloud.com/FunctionRepository/resources/ImportCSVToDataset)
+
+  - Published
+
 ### Machine learning
   
 - [`QuantileRegression`](https://resources.wolframcloud.com/FunctionRepository/resources/QuantileRegression)
@@ -36,6 +40,11 @@ The corresponding licencing is the most permissive of (1) BSD-3 or (2) the one a
 - [`IndependentComponentAnalysis`](https://resources.wolframcloud.com/FunctionRepository/resources/IndependentComponentAnalysis)
 
   - Published
+
+- [`NonNegativeMatrixFactorization`](https://resources.wolframcloud.com/FunctionRepository/resources/NonNegativeMatrixFactorization)
+
+  - Published
+
 
 ### Graphics
 
@@ -51,6 +60,9 @@ The corresponding licencing is the most permissive of (1) BSD-3 or (2) the one a
 
   - Published
   
+- [`TexturizePolygons`](https://www.wolframcloud.com/obj/user-01322cd4-0fb2-4de3-bb60-43a779233e87/DeployedResources/Function/TexturizePolygons)
+
+  - Submitted.   
     
 ### Miscellaneous
 
