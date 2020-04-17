@@ -91,7 +91,7 @@
 - [C] Neat examples.
 - [X] Unit tests.
 - [[https://resources.wolframcloud.com/FunctionRepository/resources/ImportCSVToDataset][Published]]
-* SUBMITTED [#C] TexturizePolygons [100%] [7/7]
+* DONE [#C] TexturizePolygons [100%] [7/7]
 - [X] Function page details fill-in.
 - [X] Scope.
 - [C] Applications.
@@ -100,6 +100,35 @@
 - [X] Neat examples.
 - [X] Unit tests.
 - [[https://www.wolframcloud.com/obj/user-01322cd4-0fb2-4de3-bb60-43a779233e87/DeployedResources/Function/TexturizePolygons][Submitted]]
+- [[https://resources.wolframcloud.com/FunctionRepository/resources/TexturizePolygons][Published]]
+* DONE [#B] HextileBins [87%] [7/8]
+- [X] Programming.
+- [X] Function page details fill-in.
+- [X] Scope.
+- [X] Applications.
+- [X] Properties and Relations
+- [C] Possible issues.
+- [X] Neat examples.
+- [X] Unit tests.
+- [[https://resources.wolframcloud.com/FunctionRepository/resources/HextileBins][Published]]
+* TODO [#B] KMeans [71%] [5/7]
+- [X] Programming.
+- [ ] Function page details fill-in.
+- [ ] Scope.
+- [X] Applications.
+- [X] Properties and Relations
+- [X] Possible issues.
+- [C] Neat examples.
+- [X] Unit tests.
+* TODO [#B] BisectionalKMeans [25%] [2/8]
+- [X] Programming.
+- [ ] Function page details fill-in.
+- [X] Scope.
+- [ ] Applications.
+- [ ] Properties and Relations
+- [ ] Possible issues.
+- [ ] Neat examples.
+- [ ] Unit tests.
 * TODO [#A] ChowTestStatistic [16%] [1/6]
 - [X] Implementation.
   - Previously done and published at GitHub.
